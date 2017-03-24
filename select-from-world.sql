@@ -10,7 +10,7 @@ Read the notes about this table. Observe the result of running a simple SQL comm
 SELECT name, continent, population
 FROM world
 
---#2
+--#2vcaf
 /*
 How to use WHERE to filter records.
 Show the name for the countries that have a population of at least 200 million. 200 million is 200000000, there are eight zeros.
